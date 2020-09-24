@@ -1,0 +1,10 @@
+{
+  "name": "pocket-extensions",
+  "version": "1.0.0",
+  "author": "Pocket, Inc.",
+  "description": "API used to create Pocket Browser Extensions with ease!",
+  "license": "MIT",
+  "main": "api.js",
+  "dependencies": {
+  }
+}

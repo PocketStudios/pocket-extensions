@@ -5,5 +5,7 @@
 <hr>
 <h2>Developing:</h2>
 When developing, start the file with: <code>const browser = require("pocket-extensions")</code>, then remove it when you're done from coding it. because it will NOT function with it.
+<h2>Documentation:</h2>
+<a href="https://app.gitbook.com/@ahmadhrb/s/pocket-extensions/">Official Documentation</a>
 <hr>
 &copy; 2020 - Pocket Inc.
